@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    font-family: "Lucida Handwriting", Georgia, Garamond;
+}
+h1 {
+    text-align: center;
+    color: indigo;
+}
+
+h2, h3 {
+    color: firebrick;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
