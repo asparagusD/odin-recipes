@@ -1,6 +1,7 @@
 body {
     background-color: burlywood;
     font-family: "Lucida Handwriting", Georgia, Garamond;
+    margin: 30px 50px;
 }
 h1 {
     text-align: center;
@@ -13,5 +14,35 @@ h2, h3 {
 
 .center {
     display: block;
-    margin: auto;
+    margin: 0 auto;
+
 }
+
+a {
+    display: block;
+    
+}
+
+.ulist1 {
+    margin: 50px 400px;
+}
+
+.ulist1_elements {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.element_space {
+    margin-bottom: 10px;
+}
+
+.space {
+    margin-bottom: 10px;
+}
+
+.space_steps {
+    margin-bottom: 15px;
+}
+
+
+
